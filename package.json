@@ -1,15 +1,14 @@
 {
   "name": "gatsby-source-codewars",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "Source plugin for pulling completed code challenges from Codewars.com",
+  "keywords": [gatsby, source, codewars, api],
+  "author": {
+    "name": "Andre Wruszczak",
+    "email": "avataw.dev@gmail.com"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.0"
   }
 }
